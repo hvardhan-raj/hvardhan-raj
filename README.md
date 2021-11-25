@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hvardhan-raj
-- 🌱 I’m currently learning. 
+- 👋 Hi, I’m @hvardhan-raj .
+- 🌱 I’m currently learning . 
 - 📫 Reach me through hvardhan.raj@outlook.com
 
 <!---
